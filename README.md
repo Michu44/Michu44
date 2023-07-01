@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello, guys! 👋
 
-My name is Michael Lopez and I'm a software developer/DevOps engineer as well as an Entrepreneur. I'm from Switzerland, living in Bern. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Michael Lopez and I'm a software developer/DevOps engineer as well as an Entrepreneur. I'm from Switzerland, living in Bern. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
