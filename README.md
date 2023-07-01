@@ -29,6 +29,10 @@ My name is Michael Lopez and I'm a software developer/DevOps engineer as well as
 
 Apart from coding and bussiness, I also try to maintain a blog - you can find my articles on my website at [michaellopez.ch](https://michaellopez.ch/) as well as on [Medium](https://medium.com/@michael.lopez).
 
+## Joke of the Day
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Michu44/Michu44">
